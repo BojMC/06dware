@@ -4,3 +4,7 @@
 fully open source and non obsfucated. check code :)
 
 luv u 06d <3
+
+
+testing discord webhooks lel
+
